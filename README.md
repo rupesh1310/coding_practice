@@ -1,2 +1,2 @@
 # coding_practice
-* [] letusc
+* [ ] letusc
