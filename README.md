@@ -1,3 +1,3 @@
 # coding_practice
-[]Let us c
+[ ]Let us c
 
