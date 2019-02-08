@@ -1,0 +1,168 @@
+/* #*/ export const PERSON = `
+name:
+  first: A.
+  middle:
+  last: Rupesh
+about: In short a Tech nerd.I was Born in India,in late 1996, I was fortunate enough to grow up with the rapid 
+       changes in technology. I got to witness the end of some technologies and the advent of other 
+       technologies. The first computer language I learned was HTML - back when MySpace was a thing and 
+       you could customize profiles by embedding HTML. This happened at the age of 12. After buffing up a bit
+       on HTML in high school, my first year of college unfolded and Java was the second computer language I 
+       learned. Ever since then, I have considered myself devoted to computer science. ❤ 
+position: Software Developer
+
+birth:
+  year: 1996
+  location: India
+
+
+#1.Education
+Education:
+- degree: B.TECH IN COMPUTER SCIENCE AND INFORMATION TECHNOLOGY
+  college: Institute of Technical Education and Research (ITER).
+  timeperiod: 2016-2020
+  cgpa: 7.05
+
+- degree: INTERMEDIATE/+2 FROM CBSE
+  school: Valley View School
+  timeperiod: 2016
+  percentage: 57.4%
+
+- degree: MATRICULATION FROM CBSE
+  school: Valley View School
+  timeperiod: 2013
+  percentage: 68.4%
+
+#2.Learning and experiences
+ Courses:
+ - organization: Udemy
+    name: The Web Developer Bootcamp
+    timeperiod: Dec 2017 - Jan 2017
+    description: A course based on basics of webdevelopment.
+
+ - organization: Udemy
+    name: The Complete JavaScript Course
+    timeperiod: Jan 2018 - Feb 2018
+    description: A course based on JavaScript.
+
+ - organization: Udemy
+    name: Learn and Understand NodeJS 
+    timeperiod: Dec 2018 - Jan 2019
+    description: A course based on NodeJs.
+
+ - organization: Udemy
+    name: Machine Learning with Javascript 
+    timeperiod: Dec 2018 - Jan 2019
+    description: A course on machine learning with JavaScript.
+
+
+
+#3.Projects
+Projects:
+- name: Curated-Search
+  platform: Reactjs
+  description: React.js app for fast searching and playing Youtube videos using the Youtube API.
+  url: https://github.com/rupesh1310/curated-search
+  demo: https://ysearch.netlify.com/
+
+- name: Weather app
+  platform: Reactjs
+  description: React.js app for weather information.
+  url: https://github.com/rupesh1310/weather_app
+
+- name: Video Converter
+  platform: ElectronJs
+  description: Integrating Electron with React and Redux to convert video files. 
+  url: https://github.com/rupesh1310/video-file-converter
+
+- name: Amazing gif search
+  platform: Vuejs
+  description: A Single page Vue.js project
+  url: https://github.com/rupesh1310/weather_app
+  demo: https://giphy1310.herokuapp.com/
+
+- name: Vue News
+  platform: Vuejs
+  description: A news web application using Vue.js
+  url: https://github.com/rupesh1310/vuenews
+
+
+
+#4.Certifications
+Certifications:
+  -organization: Kharagpur Open Source Society
+    name: Kharagpur Winter of Code 2017
+    timeperiod: January 2018 - Present
+
+  -organization: FreeCodeCamp
+    name: JavaScript Algorithms and Data Structures
+    timeperiod: September 2018 - Present
+  
+  -organization: FreeCodeCamp
+    name: Responsive Web Design
+    timeperiod: August 2018
+
+
+
+Presentation:
+  -organization: Codex
+    name: Conducted a workshop on Web Development for 1st,2nd and 3rd year students of our college.
+  -organization: Codex
+    name: Volunteered in multiple workshops of linux which was conducted by other coordinators of codex.
+
+
+
+
+Extracurricular Activity:
+- organization: Codex coding club of Institute of technical education and research
+  position: Coordinator & Senior member
+  timeperiod: May 2018 - present
+  description: Fulfillment of extremely important tasks.
+
+
+
+Achievements:
+- name: Kharagpur Winter of Code 2017
+  description: It is a 5-week long online programme for students who are interested in open source software development. 
+
+- name: Hackathon 2018
+  description: Special prize Winner in HacekerWar hackathon organized by codex club.
+
+- name: Codex-Workshop 2018
+  description: Conducted a workshop on Web Development for 1st,2nd and 3rd year students of our college.
+
+- name: Codex-volunteer 2018-2019
+  description: Volunteered in multiple workshops of linux which was conducted by other coordinators of codex. 
+
+
+# skill level goes 0 to 100
+skills:
+- name: HTML5
+  level: 99
+- name: CSS3
+  level: 95
+- name: JavaScript
+  level: 97
+- name: Node.js
+  level: 93
+- name: ReactJs
+  level: 90
+- name: TypeScript
+  level: 80
+- name: ES.Next
+  level: 70
+- name: Docker
+  level: 99
+knowledge: Also proficient in high level languages like JAVA and C.
+
+
+contact:
+  email: a.rupesh66@gmail.com
+  phone: 7325935036
+  street: ITER College
+  city: Bhubaneswar
+  website: rupesh1310.github.io
+  github: rupesh1310
+# en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
+lang: en
+`
